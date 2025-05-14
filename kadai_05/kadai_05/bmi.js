@@ -5,4 +5,5 @@ let height;
 height = 1.7;
 console.log("身長:1.7m");
 console.log("試算式:[体重(kg)/[身長(m)*身長(m)]");
-console.log(68 / (1.7 * 1.7));
+let bmi = weight / (height* height);
+console.log(bmi);
