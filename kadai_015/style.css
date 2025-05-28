@@ -1,4 +1,4 @@
-html{font-size:20;}
+html{font-size:20px;}
 
 body{ 
   font-family: "Arial", "Meiryo", sans-serif;
@@ -9,7 +9,7 @@ body{
 .pink{color:rgb(255,192,203) ;
 }
 h1{font-family:"Josefin Sans",sans-serif;
-    font-size:2rem;
+    font-size:20px;
     letter-spacing:1.2em;
     text-shadow: 3px 3px 2px gray;
     border-bottom:3px rgb(115,115,114);
