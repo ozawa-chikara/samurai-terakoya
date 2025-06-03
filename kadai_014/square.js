@@ -1,3 +1,3 @@
-const squareTen = () => 10 ** 2;
+const square = num => num ** 2;
 
-console.log(squareTen());
+console.log(square(10)); 
